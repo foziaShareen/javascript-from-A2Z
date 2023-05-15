@@ -20,10 +20,15 @@
         function loaded(data){
             createP(data);
         }
-        function setup(){                                                                                                                                                                           
+        function fileSelected(file){
+            createP(file.name+file.size+file.type)
+        }
+        function setup(){ 
+createFileInput(fileSelected);                                                                                                                                                                          
 var btn = select("#selectbtn");
 btn.mouseClicked(nows);
         }
+        
 
 
     
