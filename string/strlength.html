@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.6.0/lib/p5.js"></script>
+    <script src="../cdnjs/p5.dom-min.js"></script> 
+    <title>Document</title>
+</head>
+<body>
+     <p><button id="selectbtn">Load Text</button></p> 
+   
+    <script>
+        var txt;
+        function nows(){
+            loadStrings("apis.txt",loaded);
+            
+        }
+        function loaded(data){
+            createP(data);
+        }
+        function setup(){                                                                                                                                                                           
+var btn = select("#selectbtn");
+btn.mouseClicked(nows);
+        }
+
+
+    
+
+       
+
+      
+    </script>
+       
+
+
+
+
+</body>
+</html>

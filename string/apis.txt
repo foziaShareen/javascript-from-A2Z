@@ -1,0 +1,11 @@
+Just in case you don’t already have plenty of high-tech acronyms to juggle, we want to introduce you to the term API. No need to worry. You’re probably already using API every day without even noticing. Seamlessness and security are at the heart of API, so your everyday Facebook message or additions to your Amazon shopping cart make you an API user, whether you know it or not.
+
+As marketers, though, we have to know a bit more about the API and its usage than the average social media user or online shopper. After all, it has the power to aid us when dealing with a wide range of data — when we’re assessing users’ site sessions, optimizing ecommerce platforms, social media, CRM, and much more. 
+
+As a company that holds powerful digital marketing data, Semrush has its own API that supports a large number of digital agencies, data science departments, research firms, SaaS software developers, and other companies and professionals dealing with large amounts of data. 
+
+This post will walk you through the ins and outs of API — from defining an API to key use cases — and focus on one of our most sought-after API types, Traffic Analytics API. By the end of the post you will be able to assess whether it’s the kind of fuel your business needs for more tangible wins.
+
+What is an API?
+APIs, or Application Program Interfaces, are a software intermediary that allows applications to communicate with each other.
+
